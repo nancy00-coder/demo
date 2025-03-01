@@ -1,1 +1,5 @@
-# hello i have changed the readme in Aab
+<<<<<<< HEAD
+# demoA
+=======
+# demoB
+>>>>>>> 5ad1f0c (file b change)
